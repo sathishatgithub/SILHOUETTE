@@ -1,0 +1,2 @@
+
+const String kAppBar = 'SILHOUETTE';
